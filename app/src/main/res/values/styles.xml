@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="AppTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        </style>
+    <style name="ActionBar" parent="android:style/Widget.Holo.ActionBar">
+        <item name="android:background">#222</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitle</item>
+        <item name="android:icon">@drawable/cycle_bike_icon</item>
+    </style>
+	<style name="header_style">
+		<item name="android:textSize">20sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:typeface">serif</item>
+		<item name="android:textColor">#2F6699</item>
+	</style>
+	<style name="body_text">
+		<item name="android:textSize">16sp</item>
+		<item name="android:typeface">sans</item>
+		<item name="android:textColor">#7a7a7a</item>
+
+	</style>
+	<style name="copyright_text">
+		<item name="android:textSize">12sp</item>
+		<item name="android:typeface">sans</item>
+		<item name="android:textColor">#7a7a7a</item>
+
+	</style>
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:color">@color/divider_gray</item>
+        <item name="android:background">@color/divider_gray</item>
+    </style>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:layout_marginBottom="4dp">
+
+	<LinearLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+		android:layout_margin="4dp" android:orientation="vertical"
+		android:background="@color/aboutscroller_background">
+
+
+		<TextView android:id="@+id/textView11" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section1" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/plugin_ver" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="2dp"
+			android:text="@string/body_section1" android:textAppearance="@style/body_text" />
+		
+		<TextView android:id="@+id/textView12" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section2" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/textView2" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="2dp"
+			android:text="@string/body_section2" android:textAppearance="@style/body_text" />
+		<TextView android:id="@+id/textView123" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section2a" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/textView23" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="2dp"
+			android:text="@string/body_section2a" android:textAppearance="@style/body_text" />
+		<TextView android:id="@+id/textView13" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section3" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/ant_avail" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="2dp"
+			android:text="@string/body_section3" android:textAppearance="@style/body_text" />
+
+		<TextView android:id="@+id/textView14" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section4" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/textView4" android:layout_width="match_parent"
+			android:layout_height="match_parent" android:layout_marginLeft="2dp"
+			android:text="@string/body_section4" android:textAppearance="@style/body_text" />
+
+		<TextView android:id="@+id/textView24" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section4a" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/textView42" android:layout_width="match_parent"
+			android:layout_height="match_parent" android:layout_marginLeft="2dp"
+			android:text="@string/body_section4a" android:textAppearance="@style/body_text" />
+
+		<TextView android:id="@+id/textView15" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:layout_marginTop="6dp"
+			android:text="@string/about_section5" android:textAppearance="@style/header_style" />
+
+		<TextView android:id="@+id/textView5" android:layout_width="match_parent"
+			android:layout_height="match_parent" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:text="@string/body_section5"
+			android:textAppearance="@style/body_text" />
+		<TextView android:id="@+id/purchase_date" android:layout_width="match_parent"
+			android:layout_height="match_parent" android:layout_marginBottom="4dp"
+			android:layout_marginLeft="2dp" android:text="@string/copy_right"
+			android:textAppearance="@style/copyright_text" />
+		
+	</LinearLayout>
+
+</ScrollView>

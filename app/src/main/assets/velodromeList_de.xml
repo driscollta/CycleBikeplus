@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VelodromeList>
+	<Velodrome>
+		<cmt>Fahrrad das Infield an AT&amp;T-Park, in der Nähe von Strava Hauptsitz in San Francisco.
+		</cmt>
+		<name>AT&amp;T Park</name>
+		<CenterLocation lat="37.778391" lon="-122.3892" />
+		<MajorAxis>52.5</MajorAxis>
+		<MinorAxis>52.5</MinorAxis>
+		<tilt>0</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Seit der Eröffnung im Jahr 1963 hat sich die Hellyer County Park Velodrome eine Reihe von nationalen Radsport-Veranstaltungen, darunter 1972 US-Olympia-Trials statt.
+		</cmt>
+		<name>Hellyer Park</name>
+		<CenterLocation lat="37.28807" lon="-121.81337" />
+		<MajorAxis>67.5</MajorAxis>
+		<MinorAxis>38.5</MinorAxis>
+		<tilt>-68.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Bekannt für die ersten 20 Jahre seines Bestehens als Lehigh Grafschaft Velodrome - 'T-Town' - der beton-krater in einem maisfeld war die Idee der Verleger Bob Rodale. http://www.thevelodrome.com/about-us/
+		</cmt>
+		<name>Trexlertown</name>
+		<CenterLocation lat="40.54736" lon="-75.610435" />
+		<MajorAxis>68.</MajorAxis>
+		<MinorAxis>38.</MinorAxis>
+		<tilt>-5.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Offiziell das Lee Valley Velopark, ein Fahrradzentrum in Leyton, East London. Es war der Bahnrad-Austragungsort für die Olympischen Spiele in London 2012 und 2016 Gastgeber der Bahnrad-Weltmeisterschaften.
+		</cmt>
+		<name>London VeloPark</name>
+		<CenterLocation lat="51.550403" lon="-0.015264" />
+		<MajorAxis>65.5</MajorAxis>
+		<MinorAxis>65.5</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Das Velodrom d'Horta wurde 1984 als Austragungsort für die Bahnrad-Weltmeisterschaften gebaut. Es war der Bahnrad-Austragungsort für die Olympischen Sommerspiele 1992 in Barcelona.
+		</cmt>
+		<name>Velòdrom d'Horta </name>
+		<CenterLocation lat="41.43810" lon="2.148861" />
+		<MajorAxis>53.</MajorAxis>
+		<MinorAxis>28.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Lage des Schlusses der Frühjahrsklassiker Paris-Roubaix.</cmt>
+		<name>Vélodrome Roubaix </name>
+		<CenterLocation lat="50.677969" lon="3.205359" />
+		<MajorAxis>103.5</MajorAxis>
+		<MinorAxis>47.9</MinorAxis>
+		<tilt>45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Diese allzweck konkrete außenbahn ist die heimat von den Port Nicholson Poneke Cycling Club. Es ist auch der ort für Radio Active 89FM One Love Festival am Waitangi Day. http://www.cyclingnz.com
+		</cmt>
+		<name>Hataitai Park Cycling Velodrome</name>
+		<CenterLocation lat="-41.305589" lon="174.789551" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Das Velodrom in Mexiko-Stadt veranstaltete die Track-Radfahren-Ereignisse für Olympische Sommerspiele 1968. Die Holzoberfläche ist 'Doussie Alzeiba' eine starke und dauerhafte afrikanischen hartholz.		</cmt>
+		<name>Agustín Melgar Olympic Velodrome</name>
+		<CenterLocation lat="19.40980" lon="-99.103383" />
+		<MajorAxis>70.0</MajorAxis>
+		<MinorAxis>35.7</MinorAxis>
+		<tilt>2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Nach dem der Präsident der Vallecaucana League Radfahren es war der Track cycling Veranstaltungsort bei den 1971 Pan American Games und wird Standort der 2014 UCI Track-Weltmeisterschaften in Cali, Kolumbien.		</cmt>
+		<name>Velódromo Alcides Nieto Patiño</name>
+		<CenterLocation lat="3.411509" lon="-76.550963" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>40.</MinorAxis>
+		<tilt>-30.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Die Velódromo Luis Carlos Galán ist eine konkrete Velodrom in Bogotá, Kolumbien, die die 1995 UCI Bahn-Weltmeisterschaften veranstaltet.		</cmt>
+		<name>Velódromo Luís Carlos Galán</name>
+		<CenterLocation lat="4.665275" lon="-74.098130" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Ziellinie der Tour de France zwischen 1968 und 1974 vor allem zu sehen, Eddy Merckx gewinnen jedes seiner fünf Toursiege gibt.		</cmt>
+		<name>Vélodrome Jacques Anquetil - La Cipale</name>
+		<CenterLocation lat="48.826331" lon="2.411528" />
+		<MajorAxis>109.5</MajorAxis>
+		<MinorAxis>42.5</MinorAxis>
+		<tilt>85.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Veranstaltungsort für Bahnrad-Ereignisse der Olympischen Sommerspiele 1988 in Seoul. Es war die erste Radrennbahn in Asien, um eine holzoberfläche aus afrikanischen ahorn haben.		</cmt>
+		<name>Seoul Olympic Cyclodrome</name>
+		<CenterLocation lat="37.51689" lon="127.123334" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>-2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Das Velodrom war der Bahnrad-Austragungsort für die Olympischen Spiele 1980 in Moskau. Das Radfahren veranstaltungsort wird von zwei paaren von schrägen bögen durch eine dünne stahlmembran verbunden bedeckt.
+		</cmt>
+		<name>Krylatskoye Sports Complex Velodrome</name>
+		<CenterLocation lat="55.76313" lon="37.433056" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>55.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Das Velodrom wurde 1877 von der britischen armee von hand gebaut. Ereignisse in den 50er jahren zog große Menschenmengen für radfahrer wie Reg Harris, der zwei medaillen bei den Olympischen 1948 gewann beobachten.
+		</cmt>
+		<name>Preston Park Velodrome</name>
+		<CenterLocation lat="50.843009" lon="-0.147018" />
+		<MajorAxis>90.</MajorAxis>
+		<MinorAxis>83.5</MinorAxis>
+		<tilt>-15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Keiokaku Velodrome in Chōfu, Tokio und führt Pari-Mutuel Keirin-Rennen - in Japan einer der vier autorisierten 'Public Sports', wo glücksspiel erlaubt ist. Keiokaku hat den Grand Prix Keirin gehostet.
+		</cmt>
+		<name>Keiokaku Velodrome</name>
+		<CenterLocation lat="35.64292" lon="139.53378" />
+		<MajorAxis>84.</MajorAxis>
+		<MinorAxis>43.</MinorAxis>
+		<tilt>-75.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Diese Velodrom war Radfahren Austragungsort der Olympischen Sommerspielen 1952. Die geschützte funktionalistischen Gebäude aus Beton wurde von Hilding Ekelund konzipiert.
+		 </cmt>
+		<name>Helsinki Velodrome</name>
+		<CenterLocation lat="60.20281" lon="24.9429" />
+		<MajorAxis>81.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>-45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Benannt nach Edgar 'Dunc' Gray, wer war der erste Australier eine Goldmedaille für den Radsport bei den Olympischen Sommerspielen 1932. Verfolgen Sie radfahren ort für den Olympischen Spielen 2000 in Sydney.
+		</cmt>
+		<name>Dunc Gray Velodrome</name>
+		<CenterLocation lat="-33.907451" lon="150.998795" />
+		<MajorAxis>58.</MajorAxis>
+		<MinorAxis>41.</MinorAxis>
+		<tilt>10.</tilt>
+	</Velodrome>
+</VelodromeList>

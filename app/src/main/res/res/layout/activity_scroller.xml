@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools" android:id="@+id/RelativeLayout101"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:gravity="center_horizontal" android:orientation="vertical"
+	tools:context=".DisplayActivity">
+
+
+	<ListView android:id="@+id/list" android:layout_width="match_parent"
+		android:layout_height="match_parent" android:layout_above="@+id/exit_trainer_mode_btn"
+		android:layout_alignParentLeft="true" android:layout_alignParentTop="true"
+		android:layout_gravity="top" android:divider="#b5b5b5"
+		android:dividerHeight="1dp" android:longClickable="true" />
+
+	<Button
+	    android:id="@+id/exit_trainer_mode_btn"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_above="@+id/trainer_mode_comment"
+	    android:layout_centerHorizontal="true" android:visibility="gone" 
+	    android:text="@string/exit_tm_btn_text" />
+
+	<TextView android:id="@+id/trainer_mode_comment"
+		android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:layout_above="@+id/include1" android:layout_gravity="center"
+		android:gravity="top" android:text="@string/tm_comment"
+		android:textSize="18sp" android:visibility="gone" />
+
+	<include android:id="@+id/include1" android:layout_width="match_parent"
+		android:visibility="visible" android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true" android:layout_above="@+id/imageView17"
+		layout="@layout/cad_hr_power" />
+	<ImageView android:id="@+id/imageView17"
+		android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:layout_above="@+id/include2" android:layout_centerHorizontal="true"
+		android:src="@drawable/horiz_350x5" />
+	<include android:id="@+id/include2" android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+		android:layout_above="@+id/imageView21" layout="@layout/bikestat_row" />
+
+	<ImageView android:id="@+id/imageView21"
+		android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:layout_above="@+id/textView40"
+		android:layout_centerHorizontal="true" android:src="@drawable/horiz_350x5" />
+
+	<TextView android:id="@+id/textView40" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_above="@+id/imageView190"
+		android:layout_centerHorizontal="true" android:layout_gravity="center_horizontal"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:text="@string/reqGPSOn_message" android:textColor="@color/white"
+		android:textSize="16sp" android:visibility="gone"  />
+
+	<ImageView android:id="@+id/imageView190"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true" android:src="@drawable/horiz_350x5" />
+
+</RelativeLayout>

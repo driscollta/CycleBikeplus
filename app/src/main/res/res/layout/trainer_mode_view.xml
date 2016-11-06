@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout77" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<TextView
+	    android:id="@+id/textView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:text="@string/trainer_mode_withstrava_spoofer"
+	    android:textSize="18sp" />
+
+	<TextView
+	    android:id="@+id/textView3"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignLeft="@+id/textView1"
+	    android:layout_alignParentLeft="true"
+	    android:layout_below="@+id/textView1"
+	    android:layout_margin="4dp"
+	    android:text="@string/about_trainer_mode"
+	    android:textSize="16sp" />
+
+	<ImageView android:id="@+id/imageView1" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_below="@+id/textView3"
+		android:layout_centerHorizontal="true" android:src="@drawable/horiz_350x5" />
+
+	<CheckBox
+	    android:id="@+id/trainer_mode_checkbox"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/imageView1"
+	    android:layout_centerHorizontal="true"
+	    android:layout_margin="6dp"
+	    android:hapticFeedbackEnabled="true"
+	    android:text="@string/use_trainer_mode" />
+
+	<ImageView android:id="@+id/imageView2" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_below="@+id/trainer_mode_checkbox"
+		android:layout_centerHorizontal="true" android:layout_marginTop="14dp"
+		android:src="@drawable/horiz_350x5" />
+
+	<ListView android:id="@+id/velo_list" android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:layout_below="@+id/imageView2"
+		android:layout_centerHorizontal="true" />
+
+	<TextView
+	    android:id="@+id/textView2"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBottom="@+id/imageView2"
+	    android:layout_alignParentLeft="true"
+	    android:layout_marginBottom="4dp"
+	    android:layout_marginLeft="4dp"
+	    android:text="@string/select_velo" />
+
+</RelativeLayout>

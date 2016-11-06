@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VelodromeList>
+	<Velodrome>
+		<cmt>Cycle the infield at AT&amp;T Park, near Strava's headquarters in San Francisco.</cmt>
+		<name>AT&amp;T Park</name>
+		<CenterLocation lat="37.778391" lon="-122.3892" />
+		<MajorAxis>52.5</MajorAxis>
+		<MinorAxis>52.5</MinorAxis>
+		<tilt>0</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Since opening in 1963, the Hellyer County Park Velodrome has hosted a number of National cycling events including the 1972 US Olympic Trials.</cmt>
+		<name>Hellyer Park</name>
+		<CenterLocation lat="37.28807" lon="-121.81337" />
+		<MajorAxis>67.5</MajorAxis>
+		<MinorAxis>38.5</MinorAxis>
+		<tilt>-68.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Known for the first 20 years of its existence as the Lehigh County Velodrome – or simply “T-town”  – the concrete crater in a corn field was the idea of publisher Bob Rodale. http://www.thevelodrome.com/about-us/
+		</cmt>
+		<name>Trexlertown</name>
+		<CenterLocation lat="40.54736" lon="-75.610435" />
+		<MajorAxis>68.</MajorAxis>
+		<MinorAxis>38.</MinorAxis>
+		<tilt>-5.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Officially called the Lee Valley VeloPark, a cycling centre in Leyton, East London. It was the track cycling venue for the 2012 London Olympic Games and will host the 2016 UCI Track Cycling World Championships.</cmt>
+		<name>London VeloPark</name>
+		<CenterLocation lat="51.550403" lon="-0.015264" />
+		<MajorAxis>65.5</MajorAxis>
+		<MinorAxis>65.5</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>The Velòdrom d’Horta was built in 1984 as the host venue for the Track Cycling World Championships. It was the track cycling venue for the 1992 Summer Olympics in Barcelona.
+		</cmt>
+		<name>Velòdrom d'Horta </name>
+		<CenterLocation lat="41.43810" lon="2.148861" />
+		<MajorAxis>53.</MajorAxis>
+		<MinorAxis>28.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Site of the finish of the spring classic Paris–Roubaix.</cmt>
+		<name>Vélodrome Roubaix </name>
+		<CenterLocation lat="50.677969" lon="3.205359" />
+		<MajorAxis>103.5</MajorAxis>
+		<MinorAxis>47.9</MinorAxis>
+		<tilt>45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>This all-purpose outdoor concrete track is the home of the Port Nicholson Poneke Cycling Club. It is also the venue for Radio Active 89FM's One Love festival on Waitangi Day. http://www.cyclingnz.com</cmt>
+		<name>Hataitai Park Cycling Velodrome</name>
+		<CenterLocation lat="-41.305589" lon="174.789551" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>This velodrome in Mexico City hosted the track cycling events for the 1968 Summer Olympics. Its wooden surface is "doussie alzeiba" a strong and durable African hardwood.
+		</cmt>
+		<name>Agustín Melgar Olympic Velodrome</name>
+		<CenterLocation lat="19.40980" lon="-99.103383" />
+		<MajorAxis>70.0</MajorAxis>
+		<MinorAxis>35.7</MinorAxis>
+		<tilt>2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Named for the president of Vallecaucana League Cycling it was the track cycling venue at the 1971 Pan American Games and will be the site of the 2014 UCI Track Cycling World Championships in Cali, Columbia.
+		</cmt>
+		<name>Velódromo Alcides Nieto Patiño</name>
+		<CenterLocation lat="3.411509" lon="-76.550963" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>40.</MinorAxis>
+		<tilt>-30.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>The Velódromo Luis Carlos Galán is a concrete velodrome in Bogotá, Colombia, which hosted the 1995 UCI Track Cycling World Championships.
+		</cmt>
+		<name>Velódromo Luís Carlos Galán</name>
+		<CenterLocation lat="4.665275" lon="-74.098130" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Finish line of the Tour de France between 1968 and 1974 most notably seeing Eddy Merckx winning each of his five Tour victories there.
+		</cmt>
+		<name>Vélodrome Jacques Anquetil - La Cipale</name>
+		<CenterLocation lat="48.826331" lon="2.411528" />
+		<MajorAxis>109.5</MajorAxis>
+		<MinorAxis>42.5</MinorAxis>
+		<tilt>85.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Venue for track cycling events of the 1988 Summer Olympics in Seoul. It was the first velodrome in Asia to have a wooden track. The wooden boards used for the cycling surface are African maple.
+		</cmt>
+		<name>Seoul Olympic Cyclodrome</name>
+		<CenterLocation lat="37.51689" lon="127.123334" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>-2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>The Krylatskoye Sports Complex Velodrome was the track cycling venue for the 1980 Summer Olympics in Moscow. The track is covered by two pairs of oblique arches connected by a thin steel membrane.
+		</cmt>
+		<name>Krylatskoye Sports Complex Velodrome</name>
+		<CenterLocation lat="55.76313" lon="37.433056" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>55.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Preston Park velodrome was constructed by hand in 1877 by the British Army. Bank Holiday events in the 50's attracted large crowds to watch riders such as Reg Harris, who won two Olympic silver medals in 1948.
+		</cmt>
+		<name>Preston Park Velodrome</name>
+		<CenterLocation lat="50.843009" lon="-0.147018" />
+		<MajorAxis>90.</MajorAxis>
+		<MinorAxis>83.5</MinorAxis>
+		<tilt>-15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Keiokaku Velodrome is located in Chōfu, Tokyo and conducts pari-mutuel Keirin racing - one of Japan's four authorized "Public Sports" where gambling is permitted. Keiokaku has hosted The Keirin Grand Prix.
+		</cmt>
+		<name>Keiokaku Velodrome</name>
+		<CenterLocation lat="35.64292" lon="139.53378" />
+		<MajorAxis>84.</MajorAxis>
+		<MinorAxis>43.</MinorAxis>
+		<tilt>-75.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>This Velodrome, was a bicycling venue of the 1952 Summer Olympics. It was built for the 1940 Summer Olympicsthat were cancelled due to World War II. The protected functionalist concrete building was designed by Hilding Ekelund.
+		</cmt>
+		<name>Helsinki Velodrome</name>
+		<CenterLocation lat="60.20281" lon="24.9429" />
+		<MajorAxis>81.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>-45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Named after Edgar "Dunc" Gray, the first Australian to win a cycling Gold Medal at the Olympic Games (Los Angeles 1932). A track cycling venue for the Sydney 2000 Olympics.</cmt>
+		<name>Dunc Gray Velodrome</name>
+		<CenterLocation lat="-33.907451" lon="150.998795" />
+		<MajorAxis>58.</MajorAxis>
+		<MinorAxis>41.</MinorAxis>
+		<tilt>10.</tilt>
+	</Velodrome>
+</VelodromeList>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/arrow_n" android:maxLevel="0" />
+	<item android:drawable="@drawable/arrow_ne" android:maxLevel="1" />
+	<item android:drawable="@drawable/arrow_e" android:maxLevel="2" />
+	<item android:drawable="@drawable/arrow_se" android:maxLevel="3" />
+	<item android:drawable="@drawable/arrow_s" android:maxLevel="4" />
+	<item android:drawable="@drawable/arrow_sw" android:maxLevel="5" />
+	<item android:drawable="@drawable/arrow_w" android:maxLevel="6" />
+	<item android:drawable="@drawable/arrow_nw" android:maxLevel="7" />
+	<item android:drawable="@drawable/arrow_n" android:maxLevel="8" />
+	<item android:drawable="@drawable/arrow_n_dim" android:maxLevel="9" />
+	<item android:drawable="@drawable/arrow_ne_dim" android:maxLevel="10" />
+	<item android:drawable="@drawable/arrow_e_dim" android:maxLevel="11" />
+	<item android:drawable="@drawable/arrow_se_dim" android:maxLevel="12" />
+	<item android:drawable="@drawable/arrow_s_dim" android:maxLevel="13" />
+	<item android:drawable="@drawable/arrow_sw_dim" android:maxLevel="14" />
+	<item android:drawable="@drawable/arrow_w_dim" android:maxLevel="15" />
+	<item android:drawable="@drawable/arrow_nw_dim" android:maxLevel="16" />
+	<item android:drawable="@drawable/arrow_n_dim" android:maxLevel="17" />		
+</level-list>

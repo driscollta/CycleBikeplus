@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout  android:id="@+id/ButtonLayout"
+	    android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+	<Button android:id="@+id/ant_help_btn" android:layout_width="match_parent"
+		android:layout_marginTop="4dip" 
+		android:layout_height="wrap_content" android:clickable="true"
+		android:drawableRight="@drawable/ic_arrow_forward_holo_dark"
+		android:drawableEnd="@drawable/ic_arrow_forward_holo_dark"
+		android:minHeight="48dp" android:text="@string/ant_help"
+		android:textSize="18sp" />
+
+	<Button android:id="@+id/ant_manager_btn" android:layout_width="match_parent"
+		android:layout_height="wrap_content" 
+		android:drawableRight="@drawable/ic_arrow_forward_holo_dark"
+		android:drawableEnd="@drawable/ic_arrow_forward_holo_dark"
+		android:minHeight="48dp" android:text="@string/ant_manager"
+		android:textSize="18sp" />
+
+	<Button android:id="@+id/trainer_mode_btn" android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:drawableRight="@drawable/ic_arrow_forward_holo_dark"
+		android:drawableEnd="@drawable/ic_arrow_forward_holo_dark"
+		android:minHeight="48dp" android:text="@string/trainer_mode"
+		android:textSize="18sp" />
+	</LinearLayout>
+	<ImageView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:src="@drawable/horiz_350x5" />
+
+	<RelativeLayout android:id="@+id/RelativeLayout1"
+		android:layout_width="match_parent" android:layout_height="wrap_content">
+
+		<TextView android:id="@+id/textView4" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignBaseline="@+id/ant_avail"
+			android:layout_alignParentLeft="true"
+			android:layout_alignParentStart="true"
+			android:layout_marginLeft="4dip" android:layout_marginStart="4dip"
+			android:text="@string/ant_available"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textSize="16sp" />
+
+		<TextView android:id="@+id/ant_avail" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="4dip" android:layout_toRightOf="@+id/textView4"
+			android:layout_marginStart="4dip" android:layout_toEndOf="@+id/textView4"
+			android:text="@string/na" android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textSize="16sp" />
+
+		<TextView android:id="@+id/textView2" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignBaseline="@+id/ant_avail"
+			 android:layout_toLeftOf="@+id/plugin_ver"
+			 android:layout_toStartOf="@+id/plugin_ver"
+			android:text="@string/plugin_version" android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textSize="16sp" />
+
+		<TextView android:id="@+id/plugin_ver" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignBaseline="@+id/ant_avail"
+			android:layout_alignParentRight="true"
+			android:layout_alignParentEnd="true"
+			android:layout_marginLeft="4dip" android:layout_marginRight="4dip"
+			android:gravity="end" android:text="@string/na"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textSize="16sp" />
+
+	</RelativeLayout>
+
+
+	<ImageView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:src="@drawable/horiz_350x5" />
+
+	<RelativeLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<CheckBox android:id="@+id/use_ant_checkbox"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true" android:layout_marginLeft="4dip" android:layout_marginStart="4dip"
+			android:layout_alignParentStart="true"
+			android:checked="true" android:text="@string/use_ant_" />
+
+		<CheckBox android:id="@+id/show_ant_checkbox"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentRight="true" android:layout_alignParentEnd="true"
+			android:layout_marginRight="4dip" android:layout_marginEnd="4dip"
+			android:checked="true" android:dependency="@+id/use_ant_checkbox"
+			android:text="@string/show_ant" />
+
+	</RelativeLayout>
+	<ImageView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:src="@drawable/horiz_350x5" />
+
+			<CheckBox android:id="@+id/autoConnect_ant_checkbox"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_marginRight="4dip" android:layout_marginEnd="4dip"
+			android:checked="true"
+			android:text="@string/ant_autoconnect_mode" />
+		<TextView android:id="@+id/autoconnect_text" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_marginLeft="40dip" android:layout_marginStart="4dip"
+			android:textSize="14sp" />
+			
+	<ImageView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:src="@drawable/horiz_350x5" />
+
+	<RelativeLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<TextView android:id="@+id/textView6" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+			android:layout_alignParentStart="true"
+			android:layout_centerVertical="true" android:layout_marginLeft="4dip" android:layout_marginStart="4dip"
+			android:layout_marginRight="8dip" android:text="@string/wheel_circumference"
+			android:layout_marginEnd="8dip"
+			android:textSize="18sp" />
+
+		<EditText android:id="@+id/wheel_edit" android:layout_width="match_parent"
+			android:layout_height="wrap_content" 
+			android:layout_alignParentRight="true" android:layout_alignParentEnd="true"
+			android:layout_marginRight="4dip" android:layout_toRightOf="@+id/textView6"
+			android:layout_marginEnd="4dip"
+			android:hint="@string/default_circum" android:inputType="numberDecimal"
+			android:singleLine="true" android:textSize="18sp" />
+
+	</RelativeLayout>
+
+	<ImageView android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:src="@drawable/horiz_350x5" />
+	<RelativeLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<TextView android:id="@+id/dummytext" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentLeft="true" android:layout_alignParentStart="true"
+			android:layout_marginLeft="4dip" android:layout_marginStart="4dip"
+			android:layout_marginRight="8dip" android:layout_marginEnd="8dip" android:text="" android:textSize="18sp" />
+
+		<Button android:id="@+id/donate_btn" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_above="@id/dummytext"
+			android:minHeight="48dp" android:text="@string/donate"
+			android:textSize="18sp" />
+
+	</RelativeLayout>
+</LinearLayout>

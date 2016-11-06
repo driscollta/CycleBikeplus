@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/RelativeLayout6" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp" android:gravity="top"
+                android:background="@color/bkgnd_black">
+
+    <View style="@style/Divider" android:id="@+id/imageView202"
+          android:background="@color/divider_gray"/>
+	<LinearLayout android:id="@+id/cadcell"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true" android:orientation="vertical"
+		 android:clickable="true" android:hapticFeedbackEnabled="true" >
+
+		<TextView android:id="@+id/textView620" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="8dp"
+			android:layout_marginRight="18dp" android:text="@string/cadence_title"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:textSize="12sp" />
+
+		<TextView android:id="@+id/textView621" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+			android:layout_marginBottom="0dp" android:layout_marginLeft="8dp"
+			android:layout_marginRight="8dp" android:layout_marginTop="2dp"
+			android:text="---" android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="32sp"/>
+
+	</LinearLayout>
+
+	<ImageView android:id="@+id/imageView601"
+		android:layout_width="wrap_content" android:layout_height="match_parent"
+		android:layout_alignBottom="@+id/cadcell"
+		android:layout_toRightOf="@+id/cadcell" android:src="@drawable/vert_5x120"
+		 />
+
+	<LinearLayout android:id="@+id/hrcell"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_alignBaseline="@+id/imageView601"
+		android:layout_toLeftOf="@+id/imageView603" android:layout_toRightOf="@+id/imageView601"
+		android:orientation="vertical"  android:clickable="true" android:hapticFeedbackEnabled="true">
+
+		<TextView android:id="@+id/textView622" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="8dp"
+			android:text="@string/heart_rate_bpm_title" android:textAppearance="?android:attr/textAppearanceSmall"
+			android:textSize="12sp" />
+
+		<TextView android:id="@+id/textView623" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+			android:layout_marginBottom="0dp" android:layout_marginLeft="8dp"
+			android:layout_marginRight="8dp" android:layout_marginTop="2dp"
+			android:text="---" android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="32sp" />
+	</LinearLayout>
+
+	<ImageView android:id="@+id/imageView603"
+		android:layout_width="wrap_content" android:layout_height="match_parent"
+		android:layout_alignBottom="@+id/hrcell"
+		android:layout_toLeftOf="@+id/powercell" android:src="@drawable/vert_5x120" />
+
+	<LinearLayout android:id="@+id/powercell"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_alignBaseline="@+id/hrcell"
+		android:layout_alignParentRight="true" android:orientation="vertical"
+		 android:clickable="true" android:hapticFeedbackEnabled="true" >
+
+		<TextView android:id="@+id/textView624" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_marginLeft="8dp"
+			android:layout_marginRight="18dp" android:text="@string/power_watts_title"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:textSize="12sp" />
+
+		<TextView android:id="@+id/textView625" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+			android:layout_marginBottom="0dp" android:layout_marginLeft="8dp"
+			android:layout_marginRight="8dp" android:layout_marginTop="2dp"
+			android:text="---" android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="32sp"/>
+
+
+	</LinearLayout>
+
+</RelativeLayout>

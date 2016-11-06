@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VelodromeList>
+	<Velodrome>
+		<cmt>Roulez l'avant-champ à AT&amp;T Park, près du siège de Strava dans San Francisco.
+		</cmt>
+		<name>AT&amp;T Park</name>
+		<CenterLocation lat="37.778391" lon="-122.3892" />
+		<MajorAxis>52.5</MajorAxis>
+		<MinorAxis>52.5</MinorAxis>
+		<tilt>0</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Depuis son ouverture en 1963, le Vélodrome de Hellyer Park a accueilli plusieurs événements cyclistes nationalaux, y compris les qualifications pour les jeux olympiques de 1972.
+		</cmt>
+		<name>Hellyer Park</name>
+		<CenterLocation lat="37.28807" lon="-121.81337" />
+		<MajorAxis>67.5</MajorAxis>
+		<MinorAxis>38.5</MinorAxis>
+		<tilt>-68.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Connu pendant les 20 premières années de son existence sous le nom du Vélodrome du comté de Lehigh - ou 'T-Town' - le cratère de béton dans un champ de maïs était l'idée de l'éditeur Bob Rodale. www.thevelodrome.com
+		</cmt>
+		<name>Trexlertown</name>
+		<CenterLocation lat="40.54736" lon="-75.610435" />
+		<MajorAxis>68.</MajorAxis>
+		<MinorAxis>38.</MinorAxis>
+		<tilt>-5.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Un centre de cyclisme à Leyton, East London. Il a été le site de cyclisme de piste pour les Jeux olympiques de 2012 et sera l'hôte du Championnats du monde UCI sur Piste en 2016.
+		</cmt>
+		<name>London VeloPark</name>
+		<CenterLocation lat="51.550403" lon="-0.015264" />
+		<MajorAxis>65.5</MajorAxis>
+		<MinorAxis>65.5</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Le vélodrome d'Horta fut construit en 1984 comme site pour les Championnats du Monde de cyclisme sur piste. C'était aussi le site du cyclisme sur piste pour les Jeux olympiques d'été de 1992 à Barcelone.
+		</cmt>
+		<name>Velòdrom d'Horta </name>
+		<CenterLocation lat="41.43810" lon="2.148861" />
+		<MajorAxis>53.</MajorAxis>
+		<MinorAxis>28.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Site de l'arrivée de la classique de printemps Paris-Roubaix.</cmt>
+		<name>Vélodrome Roubaix </name>
+		<CenterLocation lat="50.677969" lon="3.205359" />
+		<MajorAxis>103.5</MajorAxis>
+		<MinorAxis>47.9</MinorAxis>
+		<tilt>45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Cette piste de béton extérieure tout usage est le domicile du Port Nicholson Poneke Cycling Club. Elle est aussi le site pour le festival One Love de Radio Active 89FM sur Waitangi Day. http://www.cyclingnz.com
+		</cmt>
+		<name>Hataitai Park Cycling Velodrome</name>
+		<CenterLocation lat="-41.305589" lon="174.789551" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Ce vélodrome à Mexico a accueilli les épreuves de cyclisme sur piste pour les Jeux olympiques d'été de 1968. Sa surface est en 'doussie alzeiba', un bois africain solide et résistant.
+		</cmt>
+		<name>Velodrome Olympique Agustín Melgar</name>
+		<CenterLocation lat="19.40980" lon="-99.103383" />
+		<MajorAxis>70.0</MajorAxis>
+		<MinorAxis>35.7</MinorAxis>
+		<tilt>2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Nommé pour le Président de la Ligue de Cyclisme Vallecaucana, il a été le site de cyclisme sur piste des Jeux panaméricains de 1971 et sera le site du Championnat du monde UCI sur Piste en 2014 à Cali, en Colombie.
+		</cmt>
+		<name>Velódromo Alcides Nieto Patiño</name>
+		<CenterLocation lat="3.411509" lon="-76.550963" />
+		<MajorAxis>70.</MajorAxis>
+		<MinorAxis>40.</MinorAxis>
+		<tilt>-30.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Le Vélodrome Luis Carlos Galán est un Vélodrome en béton à Bogotá Colombie, qui a accueilli le Championnat du monde de cyclisme sur piste en 1995.
+		</cmt>
+		<name>Velódromo Luís Carlos Galán</name>
+		<CenterLocation lat="4.665275" lon="-74.098130" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>0.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Ligne d'arrivée du Tour de France entre 1968 et 1974. Notamment site des cinq victoires de Tour d’Eddy Merckx.
+		</cmt>
+		<name>Vélodrome Jacques Anquetil - La Cipale</name>
+		<CenterLocation lat="48.826331" lon="2.411528" />
+		<MajorAxis>109.5</MajorAxis>
+		<MinorAxis>42.5</MinorAxis>
+		<tilt>85.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Site des événements de cyclisme sur piste des Jeux olympiques d'été de 1988 à Séoul. Il a été le premier vélodrome en Asie à avoir une piste en bois. Les planches de bois utilisées pour la surface de vélo sont en érable africain.
+		</cmt>
+		<name>Cyclodrome Olympique de Séoul</name>
+		<CenterLocation lat="37.51689" lon="127.123334" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>34.</MinorAxis>
+		<tilt>-2.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Le Vélodrome du Complexe Sportif de Krylatskoye a été le site de cyclisme sur piste pour les Jeux olympiques d'été de 1980 à Moscou. La piste est couverte par deux paires d'arches obliques reliés par une fine membrane en acier.
+		</cmt>
+		<name>Krylatskoye Sports Complex Velodrome</name>
+		<CenterLocation lat="55.76313" lon="37.433056" />
+		<MajorAxis>71.5</MajorAxis>
+		<MinorAxis>55.</MinorAxis>
+		<tilt>15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Construit à la main en 1877 par l'armée britannique. Des événements eb jours fériés pendant les années 50 ont attiré une foule nombreuse pour voir les cyclistes tels que Reg Harris.
+		</cmt>
+		<name>Velodrome de Preston Park</name>
+		<CenterLocation lat="50.843009" lon="-0.147018" />
+		<MajorAxis>90.</MajorAxis>
+		<MinorAxis>83.5</MinorAxis>
+		<tilt>-15.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>le Vélodrome de Keiokaku est situé à Chōfu, Tokyo et accueil des courses Keirin avec pari mutuel - l'un des quatre 'Sports Publics' autorisés au Japon, où les paris sont permis. Keiokaku a accueilli le Grand Prix de Keirin.
+		</cmt>
+		<name>Velodrome de Keiokaku</name>
+		<CenterLocation lat="35.64292" lon="139.53378" />
+		<MajorAxis>84.</MajorAxis>
+		<MinorAxis>43.</MinorAxis>
+		<tilt>-75.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Ce vélodrome avait été construit pour les jeux de 1940 qui furent annulées en raison de la seconde guerre mondiale. Le bâtiment de béton fonctionnaliste est un monument classé, conçu par Hilding Ekelund.
+		</cmt>
+		<name>Velodrome de Helsinki</name>
+		<CenterLocation lat="60.20281" lon="24.9429" />
+		<MajorAxis>81.</MajorAxis>
+		<MinorAxis>46.</MinorAxis>
+		<tilt>-45.</tilt>
+	</Velodrome>
+	<Velodrome>
+		<cmt>Nommé pour Edgar 'Dunc' Gray, le premier Australien à remporter une médaille d'or en cyclisme, aux Jeux Olympiques de Los Angeles en 1932. Site du vélo sur piste des Jeux Olympiques de Sydney en 2000.
+		</cmt>
+		<name>Dunc Gray Velodrome</name>
+		<CenterLocation lat="-33.907451" lon="150.998795" />
+		<MajorAxis>58.</MajorAxis>
+		<MinorAxis>41.</MinorAxis>
+		<tilt>10.</tilt>
+	</Velodrome>
+</VelodromeList>

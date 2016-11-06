@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:cyclebike="http://schemas.android.com/apk/res-auto">
+	<item android:id="@+id/menu_about" android:title="@string/menu_about"
+		android:icon="@drawable/ic_menu_about" android:orderInCategory="0"
+		  cyclebike:showAsAction="never"  />
+	<item android:id="@+id/menu_load" android:title="@string/menu_load"
+		android:icon="@drawable/ic_menu_load" android:orderInCategory="4"
+		  cyclebike:showAsAction="never" />
+	<item
+		android:id="@+id/menu_reset_strava"
+		android:icon="@drawable/ic_menu_revert"
+		android:orderInCategory="4"
+		cyclebike:showAsAction="never"
+		android:title="@string/menu_reset_strava" />
+	<item android:id="@+id/menu_reset" android:title="@string/menu_reset"
+		android:icon="@drawable/ic_menu_revert" android:orderInCategory="3"
+		  cyclebike:showAsAction="never" />
+	<item android:id="@+id/menu_restore_route" android:title="@string/menu_restore"
+		android:icon="@drawable/ic_menu_restore" android:orderInCategory="2"
+		  cyclebike:showAsAction="never" />
+	<item android:id="@+id/menu_settings" android:title="@string/menu_settings"
+		android:icon="@drawable/ic_menu_settings" android:orderInCategory="1"
+		  cyclebike:showAsAction="never" />
+		<item android:id="@+id/menu_ant" android:title="@string/menu_ant"
+		android:icon="@drawable/ic_menu_settings" android:orderInCategory="5"
+			  cyclebike:showAsAction="never" />
+	<item android:id="@+id/action_share" android:title="@string/share"
+		  cyclebike:showAsAction="ifRoom"
+		android:icon="@drawable/ic_menu_share" />
+</menu>

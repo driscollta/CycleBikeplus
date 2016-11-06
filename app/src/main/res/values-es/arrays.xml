@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="pref_unit_entries">
+		<item>Millas</item>
+		<item>Kilómetros</item>
+	</string-array>
+	<string-array name="pref_unit_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="pref_tcx_file_idle_entries">
+		<item>2 hours</item>
+		<item>4 hours</item>
+		<item>6 hours</item>
+		<item>8 hours</item>
+	</string-array>
+	<string-array name="pref_tcx_file_idle_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="pref_trackpoint_density_entries">
+		<item>none</item>
+		<item>low density</item>
+		<item>moderate density</item>
+		<item>high density</item>
+	</string-array>
+	<string-array name="pref_trackpoint_density_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="pref_distance_entries">
+		<item>Distancia de ruta</item>
+		<item>Distancia Directa</item>
+	</string-array>
+	<string-array name="pref_distance_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="pref_activity_file_entries">
+		<item>.tcx format</item>
+		<item>.fit format</item>
+	</string-array>
+	<string-array name="pref_activity_file_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="manufacturer_ids">
+		<item>Garmin</item>
+		<item>Garmin</item>
+		<item>Zephyr</item>
+		<item>Dayton</item>
+		<item>IDT</item>
+		<item>SRM</item>
+		<item>Quarq</item>
+		<item>Ibike</item>
+		<item>Saris Cycling Group</item>
+		<item>Spark hk</item>
+		<item>Tanita</item>
+		<item>Echowell</item>
+		<item>Dynastream - oem</item>
+		<item>Nautilus</item>
+		<item>Dynastream</item>
+		<item>Timex</item>
+		<item>Metrigear</item>
+		<item>Xelic</item>
+		<item>Beurer</item>
+		<item>Cardiosport</item>
+		<item>A_and_D</item>
+		<item>HMM</item>
+		<item>Suunto</item>
+		<item>Thita Elektronik</item>
+		<item>Gpulse</item>
+		<item>Clean Mobile</item>
+		<item>Pedal Brain</item>
+		<item>Peaksware</item>
+		<item>Saxonar</item>
+		<item>Lemond_fitness</item>
+		<item>Dexcom</item>
+		<item>Wahoo Fitness</item>
+		<item>Octane Fitness</item>
+		<item>Archinoetics</item>
+		<item>The Hurt Box</item>
+		<item>Citizen Systems</item>
+		<item>Magellan</item>
+		<item>o_synce</item>
+		<item>Holux</item>
+		<item>Concept2</item>
+		<item />
+		<item>One Giant Leap</item>
+		<item>Ace Sensor</item>
+		<item>Brim Brothers</item>
+		<item>Xplova</item>
+		<item>Perception Digital</item>
+		<item>bf1systems</item>
+		<item>Pioneer</item>
+		<item>Spantec</item>
+		<item>MetaLogics</item>
+		<item>4iiii Innovations</item>
+		<item>Seiko Epson</item>
+		<item>Seiko Epson oem</item>
+		<item>Ifor Powell</item>
+		<item>Maxwell Guider</item>
+		<item>Star Trac</item>
+		<item>Breakaway</item>
+		<item>Alatech Technology ltd</item>
+		<item>Mio Technology Europe</item>
+		<item>Rotor</item>
+		<item>Geonaute</item>
+		<item>IDbike</item>
+		<item>Specialized</item>
+		<item>W/TEK</item>
+		<item>Physical Enterprises</item>
+		<item>North Pole Engineering</item>
+		<item>Bkool</item>
+		<item>Cateye</item>
+		<item>Stages Cycling</item>
+		<item>Sigma Sport</item>
+		<item>Tomtom</item>
+		<item>Peripedal</item>
+		<item>Wattbike</item>
+		<item />
+		<item />
+		<item>Moxy</item>
+		<item>Ciclosport</item>
+		<item>POWERbahn</item>
+		<item>Acorn Projects aps</item>
+		<item>LifeBEAM</item>
+		<item>Bontrager</item>
+		<item>Wellgo</item>
+
+	</string-array>
+
+</resources>
